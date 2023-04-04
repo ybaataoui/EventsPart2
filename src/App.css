@@ -1,0 +1,100 @@
+#root {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.sideNav {
+  height: 100%;
+  width: 15%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  background-color: #f5d7d7;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  overflow-y: scroll;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+}
+
+/* .whole-page {
+  display: flex;
+  flex-direction: row;
+  padding: 50px;
+  text-align: center;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  place-items: center;
+  width: 85%;
+  
+}
+
+.eventContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+ 
+
+}
+
+.event {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  height: 600px;
+  width: 25%; 
+}
+
+img {
+  height: 250px;
+  width: 250px;
+  box-shadow: 0 15px 25px #817c7c33;
+  border-radius: 5px;
+ 
+}
+
+
+
+
+
+
+
+
+
+
+.idDiv {
+  background-color: rgb(118, 10, 219);
+} */
+.filterContainer{
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 50px;
+}
+
+.cities {
+  margin-left: 20px;
+}
+.home-link 
+{
+  border:1px dotted white;
+  width:75px;
+  list-style: none;
+}
+
+nav {
+  position: fixed; 
+  top: 10 px; 
+  right: 0; 
+}
