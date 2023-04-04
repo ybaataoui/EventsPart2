@@ -1,4 +1,4 @@
-# Web Development Project 6 - *Events App*
+# Web Development Project 6 - *Events App Part 2*
 
 Submitted by: **Youssef Baataoui**
 
